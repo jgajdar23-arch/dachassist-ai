@@ -1,2 +1,2 @@
-# dachassist-ai
+# deindachassist-ai
 KI-Agent für Dachdeckerbetriebe
