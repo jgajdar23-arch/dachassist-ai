@@ -1,2 +1,2 @@
-# deindachassist-ai
+# ServicePilot AI
 KI-Agent für Dachdeckerbetriebe
