@@ -1,0 +1,10 @@
+{
+  "id": "dachtechnik-wolf",
+  "name": "Dachtechnik Wolf",
+  "description": "Professioneller Dachdeckerbetrieb in Berlin und Brandenburg",
+  "contact": {
+    "phone": "+49 123 456789",
+    "email": "kontakt@dachtechnik-wolf.de",
+    "address": "Musterstraße 1, 12345 Berlin"
+  }
+}
